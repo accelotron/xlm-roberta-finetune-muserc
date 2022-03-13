@@ -1,2 +1,2 @@
 # xlm-roberta-finetune-muserc
-Fine tune notebook for MuSeRC task using Simple Transformers.
+Notebook for finetuning xlm-RoBERTa-base for MuSeRC task using Simple Transformers.
